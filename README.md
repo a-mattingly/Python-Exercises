@@ -1,2 +1,2 @@
 # Python-Exercises
-Brief practice scripts.
+Quick practice scripts.
